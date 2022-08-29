@@ -20,9 +20,13 @@ This project is an ecommerce product page containing an overview section, relate
 2. `npm run client-dev` runs webpack to watch for changes
 3. `npm run server-dev` to launch the server
 
+**Please note: this website is no longer functional after we lost access to the APIs used in this project**
+
+If you would like to see a video of this application in action click ([here](https://www.linkedin.com/feed/update/urn:li:activity:6965127654752583680/))
+
 
 ## Credits:
-- Anthony Cella -- Overview Section ([Github](https://github.com/cello-frodo)) 
+- Anthony Cella -- Overview Section ([Github](https://github.com/anthonycella))
 - Ivan Moreno -- Related Items Section ([Github](https://github.com/imore85))
 - Sam Bartlett -- Ratings & Reviews Section ([Github](https://github.com/samkbe))
 - Chris Lathen -- Questions & Answers Section ([Github](https://github.com/clathen))
