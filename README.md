@@ -22,7 +22,7 @@ This project is an ecommerce product page containing an overview section, relate
 
 **Please note: this website is no longer functional after we lost access to the APIs used in this project**
 
-If you would like to see a video of this application in action click [here](https://www.linkedin.com/feed/update/urn:li:activity:6965127654752583680/)
+If you would like to see a video of the Overview section (my contribution) of this application in action click [here](https://www.linkedin.com/feed/update/urn:li:activity:6965127654752583680/)
 
 
 ## Credits:
